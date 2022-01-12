@@ -56,3 +56,19 @@ function map(f, a) {
   let cube = map(f,numbers);
   console.log(cube);
   
+
+
+  const myArray = ['I', 'love', 'chocolate', 'frogs'];
+const madeAString = myArray.join(' ');
+console.log(madeAString);
+
+
+
+
+
+
+function myFunction() {
+  alert('hello');
+}
+
+myFunction();
