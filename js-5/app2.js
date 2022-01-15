@@ -27,3 +27,17 @@ console.log(String(6).padStart(3, "0"));
 
 console.log("LA".repeat(3));
 // → LALALA
+
+
+We have already seen the string type’s length property. Accessing the individual characters in a string looks like accessing array elements (with a caveat that we’ll discuss in Chapter 5).
+
+1
+let string = "abc";
+2
+console.log(string.length);
+3
+// → 3
+4
+console.log(string[1]);
+5
+// → b
