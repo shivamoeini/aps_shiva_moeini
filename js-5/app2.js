@@ -29,7 +29,7 @@ console.log("LA".repeat(3));
 // → LALALA
 
 
-We have already seen the string type’s length property. Accessing the individual characters in a string looks like accessing array elements (with a caveat that we’ll discuss in Chapter 5).
+// We have already seen the string type’s length property. Accessing the individual characters in a string looks like accessing array elements (with a caveat that we’ll discuss in Chapter 5).
 
 1
 let string = "abc";
