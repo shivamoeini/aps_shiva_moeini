@@ -8,13 +8,13 @@ newObj.d === anotherFunction;	/
 
 
 
-var myObject = {};
+// var myObject = {};
 
-Object.defineProperty( myObject, "a", {
-	value: 2,
-	writable: true,
-	configurable: true,
-	enumerable: true
-} );
+// Object.defineProperty( myObject, "a", {
+// 	value: 2,
+// 	writable: true,
+// 	configurable: true,
+// 	enumerable: true
+// } );
 
-myObject.a; // 2
+// myObject.a; // 2
