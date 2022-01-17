@@ -10,7 +10,7 @@
 
 // var myObject = {};
 
-// Object.defineProperty( myObject, "a", {
+// Object.defineProperty( myObject, "", {
 // 	value: 2,
 // 	writable: true,
 // 	configurable: true,
