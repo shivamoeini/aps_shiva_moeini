@@ -1,12 +1,12 @@
-Methods
-Methods are nothing more than properties that hold
+// Methods
+// Methods are nothing more than properties that hold
 
-function values.This is a simple method:
+// function values.This is a simple method:
 
-    let rabbit = {};
-rabbit.speak = function(line) {
-    console.log(`The rabbit says '${line}'`);
-};
+//     let rabbit = {};
+// rabbit.speak = function(line) {
+//     console.log(`The rabbit says '${line}'`);
+// };
 
-rabbit.speak("I'm alive.");
+// rabbit.speak("I'm alive.");
 // → The rabbit says 'I'm alive.'
