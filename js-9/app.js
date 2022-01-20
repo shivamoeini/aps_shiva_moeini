@@ -112,10 +112,10 @@
 // expected output: Array ["The quick brown fox jumps over the lazy dog."]
 
 
-// 9)*
-// string.substring()
-// const str = 'The quick brown fox jumps over the lazy dog';
-// console.log(str.substring(6, 10));
+// 9) *
+string.substring()
+const str = 'The quick brown fox jumps over the lazy dog';
+console.log(str.substring(6, 10));
 
 // 10)*
 // String.toUpperCase()
@@ -142,3 +142,6 @@
 
 // let sum = x.replace("board", "beard")
 // console.log(sum);
+
+let x = ;
+console.log(x);
