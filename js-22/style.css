@@ -1,0 +1,27 @@
+button {
+    width: 100px;
+    height: 40px;
+    margin: 10px;
+}
+
+.btn1 {
+    border: 2px solid green;
+    border-radius: 5px;
+    background: white;
+}
+
+.btn2 {
+    border: 2px solid red;
+    border-radius: 5px;
+    background: white;
+}
+
+.btn3 {
+    border: 2px solid blue;
+    border-radius: 5px;
+    background: white;
+}
+
+p {
+    width: 1000px;
+}
