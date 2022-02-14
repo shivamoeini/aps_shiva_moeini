@@ -1,0 +1,21 @@
+[
+
+    {
+        "id": 1,
+        "name": "shiva",
+        "compony": "aps",
+        "job": "js developer"
+    },
+    {
+        "id": 2,
+        "name": "shila",
+        "compony": "aps1",
+        "job": "js"
+    },
+    {
+        "id": 3,
+        "name": "shekofe",
+        "compony": "aps2",
+        "job": "jss"
+    }
+]
